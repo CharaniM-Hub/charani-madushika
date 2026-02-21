@@ -127,7 +127,7 @@ background-size: 40%;
 }
 
 .home {
-background-image: url('../images/profilepic1.png'); 
+background-image: url('profilepic1.png'); 
 background-repeat: no-repeat;
 background-size: 30%;
 background-position-x: 80%; 
@@ -135,7 +135,7 @@ background-position-y: 45%;
 }
 
 body.dark .home{
-background-image: url('../images/profilepic4.png'); 
+background-image: url('profilepic4.png'); 
 background-repeat: no-repeat;
 background-size: 30%;
 background-position-x: 85%; 
@@ -201,4 +201,5 @@ border-color: beige;
     margin-right: 50px;
     padding: 5px 15px;
   }
+
 }
